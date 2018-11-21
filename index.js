@@ -11,7 +11,6 @@ function theBeatlesPlay(musicians, instruments){
 
 //a function which accepts an array of facts about John Lennon
 //and adds !!! to end the of each statement
-const newFacts = [];
 
 var i = 0;
 
