@@ -19,7 +19,7 @@ function johnLennonFacts(facts){
     facts[i] = facts[i] + "!!!";
     i++;
   }
-  return newFacts;
+  return facts;
 }
 
 //a function iLoveTheBeatles which accepts a number as a parameter
